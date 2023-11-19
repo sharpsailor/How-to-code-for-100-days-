@@ -5,3 +5,9 @@
 
 ## [Day1](./Day1)
 [Getting Started With Python](./Day1/)
+
+## [Day 2](./Day2.md)
+[Learning about Django](./Day2.md)
+
+## [Day 3](./Day3)
+[URLS and Views ](./Day3/)
