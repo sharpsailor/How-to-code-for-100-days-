@@ -12,8 +12,8 @@
 ## [Day 3](./Day3)
 [URLS and Views ](./Day3/)
 
-## [Day 4](./Day4.md)
-[Templates and Views ](./Day4.md/)
+## [Day 4](https://www.youtube.com/watch?v=kqyfEz7TNI0&pp=ygUhdGVtcGxhdGUgYW5kIHN0YXRpYyBmaWxlcyBkamFuZ28g)
+[Templates and Views ](https://www.youtube.com/watch?v=kqyfEz7TNI0&pp=ygUhdGVtcGxhdGUgYW5kIHN0YXRpYyBmaWxlcyBkamFuZ28g)
 
 ## [Day 5](./Day5.md)
-[Worked on ToDo CLi app](./https://github.com/sharpsailor/ToDo-Cli/)
+[Worked on ToDo CLi app](https://github.com/sharpsailor/ToDo-Cli/)
