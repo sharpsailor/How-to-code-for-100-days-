@@ -11,3 +11,9 @@
 
 ## [Day 3](./Day3)
 [URLS and Views ](./Day3/)
+
+## [Day 4](./Day4.md)
+[Templates and Views ](./Day4.md/)
+
+## [Day 5](./Day5.md)
+[Worked on ToDo CLi app](./https://github.com/sharpsailor/ToDo-Cli/)
