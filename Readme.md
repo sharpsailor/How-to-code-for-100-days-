@@ -17,3 +17,6 @@
 
 ## [Day 5](./Day5.md)
 [Worked on ToDo CLi app](https://github.com/sharpsailor/ToDo-Cli/)
+
+## [Day 6](./Day5.md)
+[Adding the github configs to help the user add Todo files directly toh his github repo ](https://github.com/sharpsailor/ToDo-Cli/)
